@@ -1,94 +1,277 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=PREMIUM%20SCRAPER%20ENGINE&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<br>
+<!-- ======================= ULTRA PREMIUM FRAMEWORK HEADER ======================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/your-repo?style=for-the-badge&logo=github&color=FFD700&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/yourusername/your-repo?style=for-the-badge&logo=github-sponsors&color=00BFFF&logoColor=white" />
-  <img src="https://img.shields.io/github/languages/top/yourusername/your-repo?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=black" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,25:004e92,50:00f5ff,75:ff00ff,100:000428&text=SHARE%20CODE%20PLUGINS&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/120363419620210385@newsletter">
-    <img src="https://img.shields.io/badge/Official_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&logo=checkmarx" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Enterprise+Modular+Plugin+Framework;Dual+Support+ESM+%26+CJS;Advanced+Case+Routing+System;High+Performance+Scraper+Engine;Cyberpunk+Developer+Edition" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Enterprise-00f5ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modules-ESM%20%7C%20CJS-ff00ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Case%20Router-ffaa00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engine-Scraper-00ff99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Production%20Ready-white?style=for-the-badge" />
 </p>
 
 ---
 
-### ⚡ "High-Performance Scrapers for Modern Bot Systems"
-*Script ini dirancang untuk kecepatan maksimal, bypass proteksi, dan kemudahan integrasi.*
+# 🌌 INTRODUCTION
 
-[Fitur](#-key-features) • [Daftar Plugin](#-premium-plugin-list) • [Instalasi](#-quick-start) • [Channel](#-stay-updated)
+**Share Code Plugins** adalah framework modular premium yang menyatukan:
 
-</div>
+- 💎 ECMAScript Module (ESM)
+- 🔥 CommonJS (CJS)
+- 🧠 Case-Based Command Routing
+- 🌐 Advanced Scraper Engine
+- 🛡 Global Error Handling
+- ⚡ Dynamic Loader System
+- 🏗 Clean Enterprise Architecture
 
----
+Dirancang untuk developer yang ingin sistem:
 
-## 💎 Key Features
-<table>
-  <tr>
-    <td width="50%"><b>🚀 Ultra Fast</b><br>Optimasi kode berbasis asynchronous (async/await).</td>
-    <td width="50%"><b>🛡️ Anti-Detection</b><br>Rotasi User-Agent dan Headers otomatis.</td>
-  </tr>
-  <tr>
-    <td width="50%"><b>📦 Modular Case</b><br>Tinggal copy-paste ke switch(command) bot kamu.</td>
-    <td width="50%"><b>🌐 Multi-Source</b><br>Mendukung 50+ website (Social Media & Tools).</td>
-  </tr>
-</table>
-
----
-
-## 📂 Premium Plugin List
-| Category | Plugin Name | Quality | Status |
-| :---: | :--- | :---: | :---: |
-| 🎥 | **TikTok No Watermark** | HD / 4K | 🟢 Active |
-| 📸 | **Instagram Reel/Post** | Original | 🟢 Active |
-| 🎵 | **Spotify Downloader** | 320kbps | 🟡 Maintenance |
-| 🔍 | **Google Search Engine** | Fast | 🟢 Active |
-| 🖼️ | **Pinterest Scraper** | High-Res | 🟢 Active |
-| 🎭 | **Character AI Chat** | API v2 | 🟢 Active |
+✔ Scalable  
+✔ Maintainable  
+✔ Reusable  
+✔ High Performance  
+✔ Production Grade  
 
 ---
 
-## 🛠️ Built With
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square&logo=cheerio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rest_API-000000?style=flat-square&logo=express&logoColor=white" />
-</div>
+# 🏗 ENTERPRISE ARCHITECTURE
+
+```
+share-code-plugins/
+│
+├── plugins/
+│   ├── esm/        → Modern Modules
+│   ├── cjs/        → Legacy Modules
+│   ├── case/       → Command Routing
+│   └── scrape/     → Scraper Services
+│
+├── core/
+│   ├── loader.js
+│   ├── handler.js
+│   ├── case.js
+│   └── error.js
+│
+├── lib/
+│   ├── utils.js
+│   ├── fetch.js
+│   └── logger.js
+│
+├── config/
+│   └── config.js
+│
+├── index.js
+└── package.json
+```
 
 ---
 
-## 🚀 Quick Start
+# ⚙️ INSTALLATION
 
-### 1. Requirements
-* Node.js v16 or higher
-* Library: `axios`, `cheerio`, `form-data`
+```bash
+git clone https://github.com/username/share-code-plugins.git
+cd share-code-plugins
+npm install
+npm start
+```
 
-### 2. Integration Example
-Gunakan struktur premium case ini agar rapi di file utama bot kamu:
+---
 
-```javascript
-/* PREMIUM SCRAPER CASE 
-  Usage: .tiktok <url>
-*/
-case 'tiktok': {
-  if (!text) return reply('Mana linknya?')
-  m.reply(mess.wait)
-  try {
-    let res = await Scraper.tiktok(text)
-    await conn.sendMessage(m.chat, { 
-       video: { url: res.download.nowm }, 
-       caption: `✨ *TikTok Success*\n👤 *Author:* ${res.author.nickname}` 
-    }, { quoted: m })
-  } catch (e) {
-    reply('Fitur error, sedang diperbaiki.')
-  }
+# 🔷 ECMAScript MODULE (ESM)
+
+```js
+// plugins/esm/system.mjs
+export default async (m, { reply }) => {
+    reply("✨ ESM Module Running - Enterprise Mode 🚀");
+};
+```
+
+✔ Native Modern Syntax  
+✔ Async Optimized  
+✔ Future Ready  
+
+---
+
+# 🔶 COMMONJS (CJS)
+
+```js
+// plugins/cjs/system.js
+module.exports = async (m, { reply }) => {
+    reply("🔥 CJS Module Running - Compatibility Mode ⚡");
+};
+```
+
+✔ Stable Ecosystem  
+✔ Backward Compatible  
+
+---
+
+# 🧠 CASE ROUTING SYSTEM
+
+```js
+// core/case.js
+async function caseRouter(command, m, { reply }) {
+    switch (command) {
+
+        case "ping":
+            reply("🏓 Pong - Core Active");
+            break;
+
+        case "system":
+            reply("💎 Share Code Plugins Framework");
+            break;
+
+        case "status":
+            reply("🟢 All Systems Operational");
+            break;
+
+        default:
+            reply("❌ Command Not Found");
+    }
 }
-break
+
+module.exports = caseRouter;
+```
+
+✔ Clean Command Flow  
+✔ Fast Switch Routing  
+✔ Easy Extension  
+
+---
+
+# 🌐 SCRAPER ENGINE
+
+```js
+const axios = require("axios");
+const cheerio = require("cheerio");
+
+async function scraper(url) {
+    try {
+        const { data } = await axios.get(url);
+        const $ = cheerio.load(data);
+
+        return {
+            status: true,
+            metadata: {
+                title: $("title").text(),
+                description: $("meta[name=description]").attr("content")
+            }
+        };
+
+    } catch (err) {
+        return {
+            status: false,
+            error: err.message
+        };
+    }
+}
+
+module.exports = scraper;
+```
+
+✔ Structured JSON Output  
+✔ Async Safe  
+✔ Error Protected  
+
+---
+
+# ⚡ DYNAMIC MODULE LOADER
+
+```js
+const fs = require("fs");
+const path = require("path");
+
+async function dynamicLoader(directory) {
+    const files = fs.readdirSync(directory);
+    const modules = [];
+
+    for (const file of files) {
+        if (file.endsWith(".js") || file.endsWith(".mjs")) {
+            const module = require(path.join(directory, file));
+            modules.push(module);
+        }
+    }
+
+    console.log(`✨ ${modules.length} Modules Loaded`);
+    return modules;
+}
+
+module.exports = dynamicLoader;
+```
+
+---
+
+# 🛡 GLOBAL ERROR HANDLER
+
+```js
+function globalError(err) {
+    console.error("🔥 GLOBAL SYSTEM ERROR:", err.message);
+}
+
+module.exports = globalError;
+```
+
+---
+
+# 🌍 ENVIRONMENT CONFIG
+
+Create `.env` file:
+
+```
+OWNER=628xxxxxxxx
+API_KEY=your_api_key
+MODE=production
+LOG_LEVEL=enterprise
+```
+
+---
+
+# 🚀 CORE FEATURES
+
+| Feature | Status |
+|----------|--------|
+| Dual Module Engine | 🟢 Stable |
+| Case Routing | 🟢 Optimized |
+| Scraper Engine | 🟢 High Performance |
+| Loader System | 🟢 Dynamic |
+| Error Handling | 🟢 Protected |
+| Architecture | 🟢 Enterprise |
+
+---
+
+# 📈 PERFORMANCE STRATEGY
+
+- Non-blocking Execution
+- Modular Loading
+- Separation of Concerns
+- Clean Code Principles
+- Production Optimization
+
+---
+
+# 💠 DESIGN PHILOSOPHY
+
+> Modular First  
+> Performance Always  
+> Scale Without Limits  
+
+---
+
+# 📜 LICENSE
+
+MIT License © 2026
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000428,50:004e92,100:00f5ff&section=footer"/>
+</p>
+
+<p align="center">
+  ✨ ENTERPRISE • CYBERPUNK • PREMIUM • DEVELOPER FRAMEWORK ✨
+</p>
