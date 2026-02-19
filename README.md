@@ -1,11 +1,11 @@
-<!-- ======================= ULTRA PREMIUM FRAMEWORK HEADER ======================= -->
+<!-- ============================ SUPREME GLOW HEADER ============================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,25:004e92,50:00f5ff,75:ff00ff,100:000428&text=SHARED%20CODE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,20:203a43,40:2c5364,60:00f5ff,80:ff00ff,100:0f2027&text=SHARE%20CODE%20PLUGINS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Enterprise+Modular+Plugin+Framework;Dual+Support+ESM+%26+CJS;Advanced+Case+Routing+System;High+Performance+Scraper+Engine;Cyberpunk+Developer+Edition" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Enterprise+Modular+Plugin+Framework;Dual+Engine:+ESM+%26+CJS;Advanced+Case+Routing+System;High+Performance+Scraper+Engine;Scalable+Production+Architecture;Premium+Developer+Edition" />
 </p>
 
 <p align="center">
@@ -13,49 +13,50 @@
   <img src="https://img.shields.io/badge/Modules-ESM%20%7C%20CJS-ff00ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System-Case%20Router-ffaa00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Engine-Scraper-00ff99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Production%20Ready-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-white?style=for-the-badge" />
 </p>
 
 ---
 
-# 🌌 INTRODUCTION
+# 🌌 ✨ INTRODUCTION ✨
 
-**Share Code Plugins** adalah framework modular premium yang menyatukan:
+**Share Code Plugins** adalah framework modular premium bercahaya yang menyatukan:
 
-- 💎 ECMAScript Module (ESM)
-- 🔥 CommonJS (CJS)
-- 🧠 Case-Based Command Routing
-- 🌐 Advanced Scraper Engine
-- 🛡 Global Error Handling
-- ⚡ Dynamic Loader System
-- 🏗 Clean Enterprise Architecture
+💎 ECMAScript Module (Modern Engine)  
+🔥 CommonJS (Legacy Engine)  
+🧠 Case-Based Routing System  
+🌐 Advanced Scraper Engine  
+⚡ Dynamic Plugin Loader  
+🛡 Centralized Error Management  
+🏗 Enterprise Clean Architecture  
 
 Dirancang untuk developer yang ingin sistem:
 
-✔ Scalable  
-✔ Maintainable  
-✔ Reusable  
+✔ Modular  
 ✔ High Performance  
-✔ Production Grade  
+✔ Clean & Maintainable  
+✔ Reusable  
+✔ Production Ready  
+✔ Enterprise Grade  
 
 ---
 
-# 🏗 ENTERPRISE ARCHITECTURE
+# 🏗 ✨ ARCHITECTURE OVERVIEW ✨
 
 ```
 share-code-plugins/
 │
 ├── plugins/
-│   ├── esm/        → Modern Modules
-│   ├── cjs/        → Legacy Modules
-│   ├── case/       → Command Routing
+│   ├── esm/        → Modern ECMAScript Modules
+│   ├── cjs/        → CommonJS Modules
+│   ├── case/       → Command Routing Logic
 │   └── scrape/     → Scraper Services
 │
 ├── core/
-│   ├── loader.js
-│   ├── handler.js
-│   ├── case.js
-│   └── error.js
+│   ├── loader.js   → Dynamic Loader Engine
+│   ├── handler.js  → Execution Manager
+│   ├── case.js     → Case Router System
+│   └── error.js    → Global Error Handler
 │
 ├── lib/
 │   ├── utils.js
@@ -71,7 +72,7 @@ share-code-plugins/
 
 ---
 
-# ⚙️ INSTALLATION
+# ⚙️ ✨ INSTALLATION ✨
 
 ```bash
 git clone https://github.com/username/share-code-plugins.git
@@ -82,27 +83,27 @@ npm start
 
 ---
 
-# 🔷 ECMAScript MODULE (ESM)
+# 🔷 ✨ ECMAScript MODULE (ESM) ✨
 
 ```js
 // plugins/esm/system.mjs
 export default async (m, { reply }) => {
-    reply("✨ ESM Module Running - Enterprise Mode 🚀");
+    reply("✨ ESM Module Activated — Premium Engine 🚀");
 };
 ```
 
 ✔ Native Modern Syntax  
-✔ Async Optimized  
-✔ Future Ready  
+✔ Async/Await Optimized  
+✔ Future Proof  
 
 ---
 
-# 🔶 COMMONJS (CJS)
+# 🔶 ✨ COMMONJS (CJS) ✨
 
 ```js
 // plugins/cjs/system.js
 module.exports = async (m, { reply }) => {
-    reply("🔥 CJS Module Running - Compatibility Mode ⚡");
+    reply("🔥 CJS Module Running — Compatibility Mode ⚡");
 };
 ```
 
@@ -111,19 +112,20 @@ module.exports = async (m, { reply }) => {
 
 ---
 
-# 🧠 CASE ROUTING SYSTEM
+# 🧠 ✨ CASE ROUTER SYSTEM ✨
 
 ```js
 // core/case.js
 async function caseRouter(command, m, { reply }) {
+
     switch (command) {
 
         case "ping":
-            reply("🏓 Pong - Core Active");
+            reply("🏓 Pong — Core Online");
             break;
 
-        case "system":
-            reply("💎 Share Code Plugins Framework");
+        case "framework":
+            reply("💎 Share Code Plugins Enterprise Edition");
             break;
 
         case "status":
@@ -138,19 +140,20 @@ async function caseRouter(command, m, { reply }) {
 module.exports = caseRouter;
 ```
 
-✔ Clean Command Flow  
-✔ Fast Switch Routing  
-✔ Easy Extension  
+✔ Fast Routing  
+✔ Clean Structure  
+✔ Easy Extend  
 
 ---
 
-# 🌐 SCRAPER ENGINE
+# 🌐 ✨ HIGH PERFORMANCE SCRAPER ENGINE ✨
 
 ```js
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-async function scraper(url) {
+async function scraperEngine(url) {
+
     try {
         const { data } = await axios.get(url);
         const $ = cheerio.load(data);
@@ -164,6 +167,7 @@ async function scraper(url) {
         };
 
     } catch (err) {
+
         return {
             status: false,
             error: err.message
@@ -171,22 +175,23 @@ async function scraper(url) {
     }
 }
 
-module.exports = scraper;
+module.exports = scraperEngine;
 ```
 
-✔ Structured JSON Output  
+✔ Structured Output  
 ✔ Async Safe  
 ✔ Error Protected  
 
 ---
 
-# ⚡ DYNAMIC MODULE LOADER
+# ⚡ ✨ DYNAMIC LOADER ✨
 
 ```js
 const fs = require("fs");
 const path = require("path");
 
 async function dynamicLoader(directory) {
+
     const files = fs.readdirSync(directory);
     const modules = [];
 
@@ -197,7 +202,7 @@ async function dynamicLoader(directory) {
         }
     }
 
-    console.log(`✨ ${modules.length} Modules Loaded`);
+    console.log(`✨ ${modules.length} Modules Loaded Successfully`);
     return modules;
 }
 
@@ -206,21 +211,21 @@ module.exports = dynamicLoader;
 
 ---
 
-# 🛡 GLOBAL ERROR HANDLER
+# 🛡 ✨ GLOBAL ERROR SYSTEM ✨
 
 ```js
-function globalError(err) {
-    console.error("🔥 GLOBAL SYSTEM ERROR:", err.message);
+function globalErrorHandler(err) {
+    console.error("🔥 GLOBAL ERROR:", err.message);
 }
 
-module.exports = globalError;
+module.exports = globalErrorHandler;
 ```
 
 ---
 
-# 🌍 ENVIRONMENT CONFIG
+# 🌍 ✨ ENVIRONMENT CONFIGURATION ✨
 
-Create `.env` file:
+Create `.env`
 
 ```
 OWNER=628xxxxxxxx
@@ -231,47 +236,58 @@ LOG_LEVEL=enterprise
 
 ---
 
-# 🚀 CORE FEATURES
+# 🚀 ✨ CORE FEATURES ✨
 
-| Feature | Status |
-|----------|--------|
-| Dual Module Engine | 🟢 Stable |
-| Case Routing | 🟢 Optimized |
-| Scraper Engine | 🟢 High Performance |
-| Loader System | 🟢 Dynamic |
-| Error Handling | 🟢 Protected |
-| Architecture | 🟢 Enterprise |
-
----
-
-# 📈 PERFORMANCE STRATEGY
-
-- Non-blocking Execution
-- Modular Loading
-- Separation of Concerns
-- Clean Code Principles
-- Production Optimization
+| Feature | Description |
+|----------|------------|
+| Dual Module Support | ESM + CJS Engine |
+| Case Router | Switch-Based System |
+| Scraper Engine | Async Structured |
+| Dynamic Loader | Auto Detect Modules |
+| Error Handling | Centralized |
+| Clean Architecture | Enterprise Design |
+| Production Ready | Scalable System |
 
 ---
 
-# 💠 DESIGN PHILOSOPHY
+# 📈 ✨ PERFORMANCE STRATEGY ✨
 
-> Modular First  
-> Performance Always  
-> Scale Without Limits  
+- Non-Blocking Execution
+- Modular Separation
+- Clean Dependency Flow
+- Scalable Architecture
+- Maintainable Codebase
 
 ---
 
-# 📜 LICENSE
+# 🔐 ✨ SECURITY & STABILITY ✨
+
+- Structured Error Catching
+- Controlled Module Execution
+- Clean Environment Variables
+- Production Mode Optimization
+
+---
+
+# 🧪 ✨ TESTING STRATEGY ✨
+
+- Modular Testing per Plugin
+- Case Router Validation
+- Scraper Output Verification
+- Error Simulation Testing
+
+---
+
+# 📜 ✨ LICENSE ✨
 
 MIT License © 2026
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000428,50:004e92,100:00f5ff&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:00f5ff,100:ff00ff&section=footer"/>
 </p>
 
 <p align="center">
-  ✨ ENTERPRISE • CYBERPUNK • PREMIUM • DEVELOPER FRAMEWORK ✨
+  ✨ ENTERPRISE • PREMIUM • SCALABLE • MODULAR • FUTURISTIC ✨
 </p>
