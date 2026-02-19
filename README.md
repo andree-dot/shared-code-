@@ -1,7 +1,7 @@
 <!-- ============================ SUPREME GLOW HEADER ============================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,20:203a43,40:2c5364,60:00f5ff,80:ff00ff,100:0f2027&text=SHARE%20CODE%20PLUGINS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,20:203a43,40:2c5364,60:00f5ff,80:ff00ff,100:0f2027&text=SHARED%20CODE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
