@@ -1,247 +1,94 @@
-<!-- 🌌 ULTRA PREMIUM GLOW HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=PREMIUM%20SCRAPER%20ENGINE&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,25:ff00ff,50:ffaa00,75:00ff99,100:00f5ff&height=220&section=header&text=SHARE%20CODE%20PLUGINS&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://img.shields.io/github/stars/yourusername/your-repo?style=for-the-badge&logo=github&color=FFD700&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/yourusername/your-repo?style=for-the-badge&logo=github-sponsors&color=00BFFF&logoColor=white" />
+  <img src="https://img.shields.io/github/languages/top/yourusername/your-repo?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=ECMAScript+Module+(ESM);CommonJS+(CJS);Case+Handler+System;Advanced+Scraper+Engine;Premium+Modular+Architecture" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ECMAScript%20Module-ESM-00f5ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CommonJS-CJS-ff00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Case-System-ffaa00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scraper-Engine-00ff99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Premium%20Stable-ffffff?style=for-the-badge" />
+  <a href="https://whatsapp.com/channel/120363419620210385@newsletter">
+    <img src="https://img.shields.io/badge/Official_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&logo=checkmarx" />
 </p>
 
 ---
 
-# 🌟 ABOUT SHARE CODE PLUGINS
+### ⚡ "High-Performance Scrapers for Modern Bot Systems"
+*Script ini dirancang untuk kecepatan maksimal, bypass proteksi, dan kemudahan integrasi.*
 
-**Share Code Plugins** adalah repository modular premium yang dirancang untuk:
+[Fitur](#-key-features) • [Daftar Plugin](#-premium-plugin-list) • [Instalasi](#-quick-start) • [Channel](#-stay-updated)
 
-✨ Plugin System ESM & CJS  
-✨ Case-Based Command Handler  
-✨ Advanced Scraper Engine  
-✨ Clean Modular Architecture  
-✨ Production Ready Structure  
-✨ High Performance Async System  
-
-Dirancang untuk developer yang ingin sistem scalable, reusable, dan profesional.
+</div>
 
 ---
 
-# 💎 PREMIUM STRUCTURE
-
-```
-share-code-plugins/
-│
-├── plugins/
-│   ├── esm/
-│   ├── cjs/
-│   ├── case/
-│   └── scrape/
-│
-├── core/
-│   ├── loader.js
-│   ├── handler.js
-│   ├── case.js
-│   └── error.js
-│
-├── lib/
-│   ├── utils.js
-│   ├── fetch.js
-│   └── logger.js
-│
-├── config/
-│   └── config.js
-│
-├── index.js
-└── package.json
-```
+## 💎 Key Features
+<table>
+  <tr>
+    <td width="50%"><b>🚀 Ultra Fast</b><br>Optimasi kode berbasis asynchronous (async/await).</td>
+    <td width="50%"><b>🛡️ Anti-Detection</b><br>Rotasi User-Agent dan Headers otomatis.</td>
+  </tr>
+  <tr>
+    <td width="50%"><b>📦 Modular Case</b><br>Tinggal copy-paste ke switch(command) bot kamu.</td>
+    <td width="50%"><b>🌐 Multi-Source</b><br>Mendukung 50+ website (Social Media & Tools).</td>
+  </tr>
+</table>
 
 ---
 
-# 🚀 QUICK INSTALL
-
-```bash
-git clone https://github.com/username/share-code-plugins.git
-cd share-code-plugins
-npm install
-npm start
-```
-
----
-
-# 🌈 ESM (ECMAScript Module) PLUGIN
-
-```js
-// plugins/esm/hello.mjs
-export default async (m, { reply }) => {
-    reply("✨ Hello from Premium ESM Module 🚀");
-};
-```
+## 📂 Premium Plugin List
+| Category | Plugin Name | Quality | Status |
+| :---: | :--- | :---: | :---: |
+| 🎥 | **TikTok No Watermark** | HD / 4K | 🟢 Active |
+| 📸 | **Instagram Reel/Post** | Original | 🟢 Active |
+| 🎵 | **Spotify Downloader** | 320kbps | 🟡 Maintenance |
+| 🔍 | **Google Search Engine** | Fast | 🟢 Active |
+| 🖼️ | **Pinterest Scraper** | High-Res | 🟢 Active |
+| 🎭 | **Character AI Chat** | API v2 | 🟢 Active |
 
 ---
 
-# 🔥 CJS (CommonJS) PLUGIN
-
-```js
-// plugins/cjs/hello.js
-module.exports = async (m, { reply }) => {
-    reply("🔥 Hello from Glowing CJS Plugin ⚡");
-};
-```
+## 🛠️ Built With
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square&logo=cheerio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_API-000000?style=flat-square&logo=express&logoColor=white" />
+</div>
 
 ---
 
-# 🧠 CASE HANDLER SYSTEM
+## 🚀 Quick Start
 
-```js
-// core/case.js
-async function caseHandler(command, m, { reply }) {
-    switch (command) {
-        case "ping":
-            reply("🏓 Pong Premium System");
-            break;
+### 1. Requirements
+* Node.js v16 or higher
+* Library: `axios`, `cheerio`, `form-data`
 
-        case "info":
-            reply("🌟 Share Code Plugins System");
-            break;
+### 2. Integration Example
+Gunakan struktur premium case ini agar rapi di file utama bot kamu:
 
-        default:
-            reply("❌ Command not found");
-    }
+```javascript
+/* PREMIUM SCRAPER CASE 
+  Usage: .tiktok <url>
+*/
+case 'tiktok': {
+  if (!text) return reply('Mana linknya?')
+  m.reply(mess.wait)
+  try {
+    let res = await Scraper.tiktok(text)
+    await conn.sendMessage(m.chat, { 
+       video: { url: res.download.nowm }, 
+       caption: `✨ *TikTok Success*\n👤 *Author:* ${res.author.nickname}` 
+    }, { quoted: m })
+  } catch (e) {
+    reply('Fitur error, sedang diperbaiki.')
+  }
 }
-
-module.exports = caseHandler;
-```
-
----
-
-# 🌐 SCRAPER ENGINE
-
-```js
-const axios = require("axios");
-const cheerio = require("cheerio");
-
-async function scrape(url) {
-    try {
-        const { data } = await axios.get(url);
-        const $ = cheerio.load(data);
-
-        return {
-            status: true,
-            title: $("title").text(),
-            description: $("meta[name=description]").attr("content")
-        };
-    } catch (err) {
-        return {
-            status: false,
-            message: err.message
-        };
-    }
-}
-
-module.exports = scrape;
-```
-
----
-
-# ⚡ DYNAMIC LOADER SYSTEM
-
-```js
-const fs = require("fs");
-const path = require("path");
-
-async function load(dir) {
-    const files = fs.readdirSync(dir);
-    const modules = [];
-
-    for (const file of files) {
-        if (file.endsWith(".js") || file.endsWith(".mjs")) {
-            const module = require(path.join(dir, file));
-            modules.push(module);
-        }
-    }
-
-    console.log(`✨ Loaded ${modules.length} modules`);
-    return modules;
-}
-
-module.exports = load;
-```
-
----
-
-# 🛡 ERROR PROTECTION SYSTEM
-
-```js
-function errorSystem(err) {
-    console.error("🔥 SYSTEM ERROR:", err.message);
-}
-
-module.exports = errorSystem;
-```
-
----
-
-# 🌌 ENV CONFIG
-
-Create `.env`
-
-```
-OWNER=628xxxxxxxx
-API_KEY=your_api_key
-MODE=production
-```
-
----
-
-# 🌟 CORE FEATURES
-
-✔ ESM + CJS Dual Support  
-✔ Case-Based Command System  
-✔ Advanced Scraper Engine  
-✔ Modular Loader  
-✔ Error Protection  
-✔ Clean Architecture  
-✔ Production Ready  
-
----
-
-# 📊 SYSTEM STATUS
-
-| Component | Status |
-|-----------|--------|
-| ESM Engine | 🟢 Stable |
-| CJS Engine | 🟢 Stable |
-| Case System | 🟢 Optimized |
-| Scraper | 🟢 Advanced |
-| Loader | 🟢 Dynamic |
-
----
-
-# 💠 DESIGN PHILOSOPHY
-
-> Build Once.  
-> Scale Forever.  
-> Modular Everything.  
-
----
-
-# 📜 LICENSE
-
-MIT License © 2026
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:ff00ff,100:00f5ff&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  ✨ PREMIUM • MODULAR • SCALABLE • POWERFUL ✨
-</p>
+break
