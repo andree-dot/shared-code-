@@ -1,7 +1,7 @@
 <!-- ======================= ULTRA PREMIUM FRAMEWORK HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,25:004e92,50:00f5ff,75:ff00ff,100:000428&text=SHARE%20CODE%20PLUGINS&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,25:004e92,50:00f5ff,75:ff00ff,100:000428&text=SHARED%20CODE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
