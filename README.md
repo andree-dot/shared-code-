@@ -228,5 +228,5 @@ MIT License © 2026
 ---
 
 <p align="center">
-  Made with ❤️ by Developer Community
+  Made with ❤️ by Andre Community Share Code
 </p>
